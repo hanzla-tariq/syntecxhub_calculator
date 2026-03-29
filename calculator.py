@@ -63,6 +63,7 @@ def main() :
                 break
             elif res == "n":
                 print("Final results:", Result)
+                print("Bye!")
                 cont = False
                 break
             else:
